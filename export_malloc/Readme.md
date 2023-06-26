@@ -1,0 +1,2 @@
+- c file export malloc to memory.wasm
+- WasmEdge function to alloc memory (calls exported malloc)
